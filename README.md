@@ -1,2 +1,20 @@
-# Tugas-Pemrograman_GUI
-Repo untuk pengumpulan tugas pemrograman GUI menggunakan Qt Designer
+<p align="center">
+  <a name="top" href="#octocat-hi-there-thanks-for-visiting-">
+     <img alt="lordacil/Tugas-pemrograman_GUI" height="60%" width="100%" src="https://i.ibb.co/NYv0DCR/gui.png"/>
+  </a>
+</p>
+
+## :rice_scene: Pendahuluan
+Assalamualikum wr.wb, Perkenalkan saya mahasiswa Insitute Technology Telkom Purwokerto (ITTP)
+| Nama | NIM | Kelas |
+| -- | -- | -- |
+| :boy: : **Rizky Nugraha Herliyanto** | 19104014 | SE03A |
+
+## Tampilan Program
+### Calendar UI
+
+![](images/calendar.png)
+
+### Style UI
+
+![](images/style.png)
