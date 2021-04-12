@@ -11,6 +11,11 @@ Assalamualikum wr.wb, Perkenalkan saya mahasiswa Insitute Technology Telkom Purw
 | :boy: : **Rizky Nugraha Herliyanto** | 19104014 | SE03A |
 
 
+<p align="center">
+  <a name="top" href="#octocat-hi-there-thanks-for-visiting-">
+     <img alt="lordacil/Tugas-pemrograman_GUI" height="50%" width="50%" src="https://i.ibb.co/RYWKHnz/ui-prog.png"/>
+  </a>
+</p>
 
 ### Calendar UI
 
