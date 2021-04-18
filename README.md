@@ -1,6 +1,6 @@
 <p align="center">
   <a name="top" href="#octocat-hi-there-thanks-for-visiting-">
-     <img alt="lordacil/Tugas-pemrograman_GUI" height="60%" width="100%" src="https://i.ibb.co/NYv0DCR/gui.png"/>
+     <img alt="lordacil/Tugas-pemrograman_GUI" height="60%" width="100%" src="https://i.ibb.co/XDPY1VM/guii.png"/>
   </a>
 </p>
 
