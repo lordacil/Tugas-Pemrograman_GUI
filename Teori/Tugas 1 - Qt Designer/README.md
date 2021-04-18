@@ -4,14 +4,6 @@
   </a>
 </p>
 
-## :rice_scene: Pendahuluan
-Assalamualikum wr.wb, Perkenalkan saya mahasiswa Insitute Technology Telkom Purwokerto (ITTP)
-| Nama | NIM | Kelas |
-| -- | -- | -- |
-| :boy: : **Rizky Nugraha Herliyanto** | 19104014 | SE03A |
-
-
-
 ### Calendar UI
 
 ![](images/calendar.png)
