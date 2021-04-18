@@ -5,7 +5,17 @@
 </p>
 
 ## :rice_scene: Pendahuluan
-Assalamualikum wr.wb, Perkenalkan saya mahasiswa Insitute Technology Telkom Purwokerto (ITTP), Repo ini bertujuan untuk tempat pengumpulan tugas GUI teori maupun praktikum
+Assalamualikum wr.wb, Perkenalkan saya mahasiswa Insitute Technology Telkom Purwokerto (ITTP)
 | Nama | NIM | Kelas |
 | -- | -- | -- |
 | :boy: : **Rizky Nugraha Herliyanto** | 19104014 | SE03A |
+
+
+
+### Calendar UI
+
+![](images/calendar.png)
+
+### Style UI
+
+![](images/style.png)
