@@ -35,18 +35,30 @@
   2. Buka CMD/Terminal (disini saya memakai terminal)
   3. Lalu ketik command berikut pada CMD/Terminal :
   ``` bash
-      $ pyuic5 -x 'nama-program-format-.ui' -o 'nama-untuk-file-pythonnya.py
+      $ pyuic5 -x 'nama-program-format-.ui' -o 'nama-untuk-file-pythonnya.py'
   ```
   4. Selesai, jika terdapat file python yg sudah diconvert berarti sudah berhasil diconvert
 
-### GIF Convert .ui ke python
+### GIF: Convert .ui ke python
 
 ![](images/gif_convert.gif)
+
+## :star2: Tampilan Output Program
+
+Untuk membuka file python yang sudah diconvert tadi caranya gampang:
+  1. Buka CMD/Terminal
+  2. Ketik Command berikut pada CMD/Terminal:
+  ``` bash
+      $ python 'nama-untuk-file-pythonnya.py'
+  ```
+  3. Selesai, jika berhasil maka akan menampilkan interfacenya.
+
+### GIF: Running Python
+
+![](images/gif_open.gif)
 
 <p align="center">
   <a name="top" href="#octocat-hi-there-thanks-for-visiting-">
      <img alt="lordacil/Tugas-pemrograman_GUI" height="30%" width="30%" src="https://i.ibb.co/RYWKHnz/ui-prog.png"/>
   </a>
 </p>
-
-## :star2: Tampilan Output Program
