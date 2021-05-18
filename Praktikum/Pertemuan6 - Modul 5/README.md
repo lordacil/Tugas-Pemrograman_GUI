@@ -37,3 +37,7 @@
 ### - DemoQDateTimeEdit.py [gif] -
 
 ![](images/gif_QTimeEdit.gif)
+
+### - DemoQCalendarWidget.py [gif] -
+
+![](images/gif_QCalendarWidget.gif)
