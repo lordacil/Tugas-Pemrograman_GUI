@@ -53,3 +53,11 @@
 ### - DemoQProgressBar.py [gif] -
 
 ![](images/gif_QProgressBar.gif)
+
+### - DemoQTreeWidget.py [gif] -
+
+![](images/gif_QTreeWidget.gif)
+
+### - DemoQTableWidget.py [gif] -
+
+![](images/gif_QTableWidget.gif)
