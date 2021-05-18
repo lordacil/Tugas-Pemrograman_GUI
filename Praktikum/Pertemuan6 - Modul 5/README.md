@@ -33,3 +33,7 @@
 ### - DemoQSpinBox.py [gif] -
 
 ![](images/gif_QSpinBox.gif)
+
+### - DemoQDateTimeEdit.py [gif] -
+
+![](images/gif_QTimeEdit.gif)
