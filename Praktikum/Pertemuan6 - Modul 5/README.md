@@ -49,3 +49,7 @@
 ### - DemoQListWidget.py [gif] -
 
 ![](images/gif_QListWidget.gif)
+
+### - DemoQProgressBar.py [gif] -
+
+![](images/gif_QProgressBar.gif)
