@@ -22,3 +22,10 @@
 
 ![](images/img_QCheckBox.png)
 
+### DemoQCheckBox.py
+
+```bash
+
+    ![](images/gif_QComboBox.gif)
+
+   ```
