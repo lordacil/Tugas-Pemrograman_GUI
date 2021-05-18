@@ -6,26 +6,26 @@
 </p>
 
 ## :star: Interface Program
-### DemoQLineEdit.py
+### - DemoQLineEdit.py [gif] - 
 
 ![](images/gif_QLineEdit.gif)
 
-### DemoQTextEdit.py
+### - DemoQTextEdit.py -
 
 ![](images/img_QTextEdit.png)
 
-### DemoQRadioButton.py
+### - DemoQRadioButton.py [gif] -
 
 ![](images/gif_QRadioButton.gif)
 
-### DemoQCheckBox.py
+### - DemoQCheckBox.py- 
 
 ![](images/img_QCheckBox.png)
 
-### DemoQCheckBox.py
+### - DemoQComboBox.py [gif] -
 
-```bash
+![](images/gif_QComboBox.gif)
 
-    ![](images/gif_QComboBox.gif)
+### - DemoQFontComboBox.py [gif] -
 
-   ```
+![](images/gif_QFontComboBox.gif)
