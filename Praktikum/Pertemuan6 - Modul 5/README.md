@@ -29,3 +29,7 @@
 ### - DemoQFontComboBox.py [gif] -
 
 ![](images/gif_QFontComboBox.gif)
+
+### - DemoQSpinBox.py [gif] -
+
+![](images/gif_QSpinBox.gif)
