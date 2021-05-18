@@ -45,3 +45,7 @@
 ### - DemoQSlider.py [gif] -
 
 ![](images/gif_QSlider.gif)
+
+### - DemoQListWidget.py [gif] -
+
+![](images/gif_QListWidget.gif)
