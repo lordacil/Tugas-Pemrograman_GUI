@@ -6,10 +6,10 @@
 </p>
 
 ## :star: Interface Program
-### - DemoQLineEdit.py - 
+### - convert_modul4.py - 
 
-![](images/gif_QLineEdit.gif)
+![](images/img_convert-modul4.png)
 
-### - DemoQLineEdit.py - 
+### - convert_dialog.py - 
 
-![](images/gif_QLineEdit.gif)
+![](images/img_convert-dialog.png)
