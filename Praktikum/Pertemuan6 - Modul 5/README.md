@@ -16,5 +16,9 @@
 
 ### DemoQRadioButton.py
 
-![](images/gif_QRadioButton.png)
+![](images/gif_QRadioButton.gif)
+
+### DemoQCheckBox.py
+
+![](images/img_QCheckBox.png)
 
