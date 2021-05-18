@@ -4,3 +4,8 @@
   </a>
   <br><br><br><br>
 </p>
+
+## :star: Interface Program
+### DemoQLineEdit.py
+
+![](images/gif_QLineEdit.gif)
