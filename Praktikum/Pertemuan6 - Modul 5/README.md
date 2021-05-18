@@ -41,3 +41,7 @@
 ### - DemoQCalendarWidget.py [gif] -
 
 ![](images/gif_QCalendarWidget.gif)
+
+### - DemoQSlider.py [gif] -
+
+![](images/gif_QSlider.gif)
